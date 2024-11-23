@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+ body{
+    background-color: bisque;
+ }
+
+h1{
+    margin-left: 30%;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+}
+
+#pattern{
+    text-decoration: none;
+    font-size: 20px;
+    color: red;
+    margin-left: 34%;
+    margin-top: 30px;
+}
+
+form{
+    margin-left: 33%;
+}
+
+label{
+    font-size: 30px;
+    color: blue;
+}
+ button{
+    margin-left: 50%;
+    margin-top: 15px;
+    color: white;
+    font-size: 16px;
+    border-radius: 10px solid red;
+    background-color: black;
+    font-weight: bold;
+ }
